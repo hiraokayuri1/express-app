@@ -1,1 +1,1 @@
-# rm -Rf /opt/codedeploy-agent/deployment-root/*
+rm -Rf /opt/codedeploy-agent/deployment-root/*
