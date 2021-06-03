@@ -18,5 +18,5 @@ hooks:
       runas: ec2-user
   ValidateService:
     - location: scripts/clear_file.sh
-     timeout: 300
-     runas: root
+      timeout: 300
+      runas: root
