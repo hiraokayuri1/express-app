@@ -22,6 +22,6 @@ phases:
 artifacts:
   files:
     - dist/**/*
-    # - package.json
+    - package.json
     - node_modules/**/*
     - appspec.yml
