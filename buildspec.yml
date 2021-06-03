@@ -27,4 +27,4 @@ artifacts:
     - package.json
     - node_modules/**/*
     - appspec.yml
-    # - scripts/**/*
+    - scripts/**/*

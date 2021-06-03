@@ -4,7 +4,7 @@ files:
   - source: /
     destination: /home/ec2-user/express-app
 permissions:
-  - object: /**/*
+  - object: /home/ec2-user/express-app
     mode: 755
     pattern: "**"
     owner: ec2-user
